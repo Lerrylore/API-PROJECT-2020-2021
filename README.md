@@ -5,7 +5,7 @@ The development of this project is part of the algorithms and principles of info
 
 ## Project specification
 
-<img src="/assets/graph_image.png" style="width:260px;height:130px;margin-left: 5px;" align="right">
+<img src="/assets/An-example-of-a-directed-graph-with-9-nodes.png" style="width:260px;height:130px;margin-left: 5px;" align="right">
 <p>This project establishes a ranking of a set of weighted direct graphs provided as input. The score attributed to each graph is obtained from the sum of the shortest paths between the initial node and all the other nodes.</p>
 
 
